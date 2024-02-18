@@ -2,7 +2,7 @@
 
 ##
 
-<img src="" alt="foto diogo" />
+<img src="images/FOTO-DO-PERFIL-AADADSOIASDIO.png" alt="foto diogo" />
 
 <h3>Este jogo foi um ideia totalmente do meu amigo @DiogoTVV que fez no portugol web studio, eu apenas converti para a linguagem C</h3>
 
