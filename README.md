@@ -8,9 +8,9 @@
 
 
 
-<img src="" alt="imagem jogo" />
+<img src="images/Screenshot_20240218-170535-1.jpg" alt="imagem jogo" />
 
-<h3>Onde o objetivo é chegar com  na letra A que é o final da fase, chegando lá você consegue finalizar o jogo</h3>
+<h3>Onde o objetivo é chegar com o 0 na letra A que é o final da fase, chegando lá você consegue finalizar o jogo</h3>
 
 ##
 
