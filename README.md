@@ -2,7 +2,7 @@
 
 <div style="margin:auto;">
 
- <img style="width:200px; height:200px;" src="images/FOTO-DO-PERFIL-AADADSOIASDIO.png" alt="foto diogo" />
+ <img style=" margin:auto; width:200px; height:200px;" src="images/FOTO-DO-PERFIL-AADADSOIASDIO.png" alt="foto diogo" />
 
 </div>
 
