@@ -1,15 +1,8 @@
 # Diogo House
 
-<div style="margin:auto;">
-
- <img style=" margin:auto; width:200px; height:200px;" src="images/FOTO-DO-PERFIL-AADADSOIASDIO.png" alt="foto diogo" />
-
-</div>
-
+ <img style="width:200px; height:200px;" src="images/FOTO-DO-PERFIL-AADADSOIASDIO.png" alt="foto diogo" />
 
 ## Este jogo foi um ideia totalmente do meu amigo [DiogoTV]() que fez no portugol web studio, eu apenas converti para a linguagem C
-
-
 
 <img style="width:200px; height:200px;" src="images/Screenshot_20240218-170535-1.jpg" alt="imagem jogo" />
 
@@ -17,10 +10,7 @@
 
 ##
 
-
 ## Eu também deixei outras fases criadas pelo [DiogoTVV]() em baixo de todo o código é só modificar o código para jogar</h3>
-
-
 
 <h4>Essas foram as tecnologias utilizadas:</h4>
 
