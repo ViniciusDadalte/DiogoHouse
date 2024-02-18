@@ -2,7 +2,7 @@
 
  <img style="width:200px; height:200px;" src="images/FOTO-DO-PERFIL-AADADSOIASDIO.png" alt="foto diogo" />
 
-## Este jogo foi um ideia totalmente do meu amigo [DiogoTV](https://github.com/DiogoTVV) que fez no portugol web studio, eu apenas converti para a linguagem C
+## Este jogo foi um ideia totalmente do meu amigo [DiogoTV](https://github.com/DiogoTVV) que fez no Portugol Webstudio, eu apenas converti para a linguagem C
 
 <img style="width:200px; height:200px;" src="images/Screenshot_20240218-170535-1.jpg" alt="imagem jogo" />
 
