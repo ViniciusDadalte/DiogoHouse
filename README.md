@@ -1,8 +1,11 @@
 # Diogo House
 
+<div style="text-aling:center;">
 
+ <img style="width:200px; height:200px;" src="images/FOTO-DO-PERFIL-AADADSOIASDIO.png" alt="foto diogo" />
 
-<img style="width:200px; height:200px;" src="images/FOTO-DO-PERFIL-AADADSOIASDIO.png" alt="foto diogo" />
+</div>
+
 
 ## Este jogo foi um ideia totalmente do meu amigo [DiogoTV]() que fez no portugol web studio, eu apenas converti para a linguagem C
 
