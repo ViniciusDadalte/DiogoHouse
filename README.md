@@ -1,6 +1,6 @@
 # Diogo House
 
-<div style="text-aling:center;">
+<div style="text-align: center;">
 
  <img style="width:200px; height:200px;" src="images/FOTO-DO-PERFIL-AADADSOIASDIO.png" alt="foto diogo" />
 
