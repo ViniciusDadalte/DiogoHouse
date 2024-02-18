@@ -4,7 +4,7 @@
 
 <img src="images/FOTO-DO-PERFIL-AADADSOIASDIO.png" alt="foto diogo" />
 
-## Este jogo foi um ideia totalmente do meu amigo @DiogoTVV que fez no portugol web studio, eu apenas converti para a linguagem C
+## Este jogo foi um ideia totalmente do meu amigo [DiogoTV]() que fez no portugol web studio, eu apenas converti para a linguagem C
 
 ##
 
@@ -14,13 +14,13 @@
 
 ##
 
-<h3>Eu também deixei outras fases criadas pelo @DiogoTVV em baixo de todo o código é só modificar o código para jogar</h3>
+## Eu também deixei outras fases criadas pelo [DiogoTVV]() em baixo de todo o código é só modificar o código para jogar</h3>
 
 ##
 
-<h2>Essas foram as tecnologias utilizadas:</h2>
+<h4>Essas foram as tecnologias utilizadas:</h4>
 
 
 ##
 
-<h2>Espero que tenham gostado :D</h2>
+<h5>Espero que tenham gostado :D</h5>
