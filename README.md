@@ -10,7 +10,7 @@
 
 ##
 
-## Eu também deixei outras fases criadas pelo [DiogoTVV](https://github.com/DiogoTVV) em baixo de todo o código é só modificar o código para jogar</h3>
+## Eu também deixei outras fases criadas pelo [DiogoTV](https://github.com/DiogoTVV) em baixo de todo o código é só modificar o código para jogar</h3>
 
 <h4>Essas foram as tecnologias utilizadas:</h4>
 
