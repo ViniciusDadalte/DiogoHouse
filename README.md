@@ -21,6 +21,7 @@
 
 <h4>Essas foram as tecnologias utilizadas:</h4>
 
+  <img align="center" alt="Vini-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
 
 ##
 
