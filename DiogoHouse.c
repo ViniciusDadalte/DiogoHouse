@@ -1,9 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>
+#include <ctype.h>
     
     
-int main() {
+int main () 
+{
   setlocale(LC_ALL,"Portuguese");
   
     int ativo = 1;
@@ -34,10 +36,13 @@ int main() {
     //////////////////////////
 
     int loadY = 0;
-    while (loadY < mapaY) {
+    while (loadY < mapaY) 
+    {
         int loadX = 0;
-        while (loadX < mapaX) {
-            if (data[loadY][loadX] == 8) {
+        while (loadX < mapaX) 
+        {
+            if (data[loadY][loadX] == 8) 
+            {
                 playerX = loadX;
                 playerY = loadY;
             }
@@ -46,28 +51,36 @@ int main() {
         loadY = loadY + 1;
     }
 
-    while (ativo == 1) {
+    while (ativo == 1) 
+    {
         system("clear");
         printf("Casa do DiogoTv: \n");
         strcpy(mapaRender, "");
         int loopY = 0;
-        while (loopY < mapaY) {
+        while (loopY < mapaY) 
+        {
             int loopX = 0;
-            while (loopX < mapaX) {
+            while (loopX < mapaX) 
+            {
                 int obj = data[loopY][loopX];
 
                 char maisMapa[3] = "";
-                if (obj == 9) {
+                if (obj == 9) 
+                {
                     strcpy(maisMapa, "A ");
                     if (playerX == loopX && playerY == loopY)
                         ganhou = 1;
-                } else {
+                } 
+                else 
+                {
                     if (obj == 1)
                         strcpy(maisMapa, "/ ");
-                    else {
+                    else 
+                    {
                         if (playerY == loopY && playerX == loopX)
                             strcpy(maisMapa, "O ");
-                        else {
+                        else 
+                        {
                             if ((loopX + loopY) % 2 == 0)
                                 strcpy(maisMapa, ". ");
                             else
@@ -82,13 +95,23 @@ int main() {
             strcat(mapaRender, "\n");
             loopY = loopY + 1;
         }
-        if (ganhou) {
+        if (ganhou) 
+        {
             printf("VOCÊ GANHOU!!\n\nO Diogo te odeia agora. '-'\n");
             ativo = 0;
-        } else {
+        } 
+        else 
+        {
             printf("%s", mapaRender);
             printf("direção: (w/a/s/d): ");
             scanf("%s", direcao);
+            
+            int i = 0;
+            while (direcao[i]) 
+            {
+                direcao[i] = tolower(direcao[i]);
+                i++;
+            }
         }
 
         int nPlayerX = playerX;
@@ -111,7 +134,8 @@ int main() {
         if (nPlayerY >= mapaY)
             nPlayerY = mapaY - 1;
       
-        if (data[nPlayerY][nPlayerX] != 1) {
+        if (data[nPlayerY][nPlayerX] != 1) 
+        {
             playerX = nPlayerX;
             playerY = nPlayerY;
         }
