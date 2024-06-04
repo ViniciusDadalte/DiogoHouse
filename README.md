@@ -4,7 +4,7 @@
   <img src="images/FOTO-DO-PERFIL-AADADSOIASDIO.png" alt="foto diogo" width="200" height="200" />
 </p>
 
-## Este jogo foi uma ideia do meu amigo [DiogoTV](https://github.com/DiogoTVV) E eu criei ele utilizando a linguagem C.
+## Este jogo foi uma ideia do meu amigo [DiogoTV](https://github.com/DiogoTVV) e eu criei ele utilizando a linguagem C.
 
 <p align="center">
   <img src="images/Screenshot_20240218-170535-1.jpg" alt="imagem jogo" width="200" height="200" />
