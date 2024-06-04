@@ -4,7 +4,7 @@
   <img src="images/FOTO-DO-PERFIL-AADADSOIASDIO.png" alt="foto diogo" width="200" height="200" />
 </p>
 
-## Este jogo foi uma ideia totalmente do meu amigo [DiogoTV](https://github.com/DiogoTVV) que fez no Portugol Webstudio. Eu apenas converti para a linguagem C.
+## Este jogo foi uma ideia do meu amigo [DiogoTV](https://github.com/DiogoTVV) E eu criei ele utilizando a linguagem C.
 
 <p align="center">
   <img src="images/Screenshot_20240218-170535-1.jpg" alt="imagem jogo" width="200" height="200" />
@@ -12,7 +12,7 @@
 
 ### O objetivo é chegar com o 0 na letra A que é o final da fase, chegando lá você consegue finalizar o jogo.
 
-## Eu também deixei outras fases criadas pelo [DiogoTV](https://github.com/DiogoTVV) em baixo de todo o código, é só modificar o código para jogar.
+## Eu também deixei outras fases em baixo de todo o código, é só modificar o código para jogar.
 
 #### Essas foram as tecnologias utilizadas:
   
