@@ -13,11 +13,5 @@
 ### O objetivo é chegar com o 0 na letra A que é o final da fase, chegando lá você consegue finalizar o jogo.
 
 ## Eu também deixei outras fases em baixo de todo o código, é só modificar o código para jogar.
-
-#### Essas foram as tecnologias utilizadas:
-  
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="Vini-C" width="40" height="30" />
-</p>
-
+ 
 ### Espero que tenham gostado :D
